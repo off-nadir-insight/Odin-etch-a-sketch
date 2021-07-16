@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  border: 1px solid red;
+  border: 1px solid rgb(61, 0, 0);
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
@@ -24,7 +24,7 @@ body {
 }
 
 .square {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   border-collapse: collapse;
 }
 
