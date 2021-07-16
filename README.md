@@ -17,4 +17,9 @@ Odin Project -- Create an Etch-a-sketch
 
 ### setup
 [x] add a button to clear the grid
-[] have the button also prompt (alert) the user to ask for a number of squares per site for a new grid
+[x] have the button also prompt (alert) the user to ask for a number of squares per site for a new grid
+
+### extra
+[x] troubleshoot non-numerical entries
+[x] each pass of the mouse assigns a random color
+[x] each pass adds 10% more black
